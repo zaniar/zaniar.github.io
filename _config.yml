@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            E. Zaniar
+tagline:          'Personal Site'
+description:      'Compilation of thoughts and experiences'
+url:              http://zaniar.github.io
+baseurl:          /
+
+author:
+  name:           'Edwin Zaniar Putra'
+  url:            https://github.com/zaniar
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/zaniar.github.io
