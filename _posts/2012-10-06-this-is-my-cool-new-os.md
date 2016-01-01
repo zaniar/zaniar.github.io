@@ -27,4 +27,4 @@ Dulu saya punya keinginan untuk membuat sistem operasi. Nah, saya pun mulai cari
 
 Itulah hasilnya.
 
-Apa yang akan saya lakukan berikutnya? Tunggu saja <img src="https://wordpress-zaniar.rhcloud.com/wp-includes/images/smilies/icon_wink.gif" alt=";-)" class="wp-smiley" />
+Apa yang akan saya lakukan berikutnya? Tunggu saja ;-)
