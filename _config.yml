@@ -1,10 +1,18 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rogue     
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
 
 # Setup
 title:            E. Zaniar
@@ -20,7 +28,9 @@ author:
 paginate:         5
 
 # Custom vars
-version:          1.0.1
+version:          1.1.1
 
 github:
   repo:           https://github.com/zaniar.github.io
+
+gems: [jekyll-paginate]
